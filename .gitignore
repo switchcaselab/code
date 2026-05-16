@@ -1,0 +1,11 @@
+.vscode
+.idea
+*build*
+
+# vcpkg artifacts (keep the cloned vcpkg/ tree, ignore its build outputs)
+vcpkg/buildtrees/
+vcpkg/downloads/
+vcpkg/packages/
+vcpkg/installed/
+vcpkg/vcpkg.exe
+vcpkg/vcpkg
