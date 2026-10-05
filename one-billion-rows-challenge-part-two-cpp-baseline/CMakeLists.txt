@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 4.3)
+project(one_billion_rows_challenge_part_two_cpp_baseline)
+
+set(CMAKE_CXX_STANDARD 26)
+
+add_executable(one_billion_rows_challenge_part_two_cpp_baseline main.cpp)
